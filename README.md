@@ -23,7 +23,7 @@
 	- Script/ViscuitSampleIOS.cs (샘플)<br>
 ![build](./img/img-3-2.jpg)
 
-- 비스킷 IOS 프레임워크 [(링크)]((https://github.com/viscuit-ads/viscuit-ios-sdk) 
+- 비스킷 IOS 프레임워크 [(링크)](https://github.com/viscuit-ads/viscuit-ios-sdk)
 
 - 연동가이드
 
