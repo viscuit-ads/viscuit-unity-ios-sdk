@@ -15,7 +15,7 @@
 ---
 
 ## VISCUIT SDK 구성
-- viscuit_ios_unity_1_1_3.unitypackage
+- viscuit_ios_unity_1_1_2.unitypackage
 	- Plugins/IOS/ViscuitPlugin.h (필수)
 	- Plugins/IOS/ViscuitPlugin.mm (필수)
 	- Plugins/IOS/ViscuitEventManagerIOS.cs (필수)
